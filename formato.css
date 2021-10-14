@@ -1,6 +1,4 @@
 h1 {color:blue;}
 #c1 {color:red;}
 .c2 {color:green;}
-#cambia .color1 b {color: red; background-color: blue;}
-#cambia .color2 b {color: yellow; background-color: purple;}
-#cambia .color3 b {color: green; background-color: black;}
+#cambia .color b {color: red; background-color: blue;}
