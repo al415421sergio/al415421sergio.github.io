@@ -4,3 +4,9 @@ h1 {color:blue;}
 #color .rojo b {
 	color: red; 
 	background-color: blue;}
+#color .amarillo b {
+	color: yellow; 
+	background-color: purple;}
+#color .verde b {
+	color: green; 
+	background-color: black;}
