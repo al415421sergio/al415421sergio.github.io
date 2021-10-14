@@ -1,9 +1,9 @@
 h1 {color:blue;}
-#rojo .ro b {
+#color .rojo b {
 	color: red; 
 	background-color: yellow;
 }
-#azul .az b {
+#color .azul b {
 	color: blue; 
 	background-color: green;
 }
