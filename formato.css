@@ -1,8 +1,6 @@
 h1 {color:blue;}
 #c1 {color:red;}
 .c2 {color:green;}
-#grande .interior em {
-  color: red; 
-  background-color: blue;}
+#cambia .color1 c {color: red; background-color: blue;}
 #cambia .color2 c {color: yellow; background-color: purple;}
 #cambia .color3 c {color: green; background-color: black;}
