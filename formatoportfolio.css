@@ -1,0 +1,9 @@
+h1 {color:blue;}
+#rojo h1 {
+	color: red; 
+	background-color: black;
+}
+#azul li {
+	color: blue; 
+	background-color: black;
+}
